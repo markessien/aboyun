@@ -2,7 +2,7 @@
 
 
 Developers
---Akanni Busayo
+-- Akanni Busayo
 --
 --Gbemi Oladiran
 -- Mark Essien
