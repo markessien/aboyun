@@ -4,6 +4,6 @@
 Developers
 
 -- Akanni Busayo
--- 
--- Gbemi Oladiran
+--Funke Weke 
+--Gbemi Oladiran
 -- Mark Essien
